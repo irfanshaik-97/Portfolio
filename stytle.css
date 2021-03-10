@@ -372,7 +372,7 @@ transform: scale(1.1);
     transform: scale(1.1);
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (max-width: 640px) {
     #skills div.row {
         display:flex;
         flex-direction:column;
